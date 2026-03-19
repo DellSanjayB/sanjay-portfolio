@@ -9,12 +9,6 @@ A simple, single-page portfolio website with sections for **About**, **Experienc
 - **script.js**: Small enhancements (e.g. dynamic year in footer).
 - **assets/Janani-CV.pdf**: Your CV file (you need to add this).
 
-## Getting Started
-
-1. Place your CV file at `assets/Janani-CV.pdf` (create the `assets` folder if it does not exist).
-2. Open `index.html` in any browser to view the portfolio.
-3. Edit the placeholder text in `index.html` (name, role, experience, education, certifications, links, and email) to reflect your real information.
-
 ## Customization
 
 - Update colors, spacing, or typography in `styles.css`.
